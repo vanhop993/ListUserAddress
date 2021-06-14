@@ -1,0 +1,8 @@
+[
+    {"id":"1", "address":"Nguyễn Minh Hoàng P12","province":"Hồ Chí Minh","district":"Tân Bình","subDistrict":"12","typeAddress": "workingPlace"},
+    {"id":"2", "address":"Tây Sơn p5","province":"Hà Nội","district":"Đống Đa","subDistrict":"5","typeAddress": "home"},
+    {"id":"3", "address":"p Hải Thành","province":"Hải Phòng","district":"Dương Kính","subDistrict":"Hải Thành","typeAddress": "workingPlace"},
+    {"id":"4", "address":"p Tân Đồng","province":"Bình Phước","district":"Đồng Xoài","subDistrict":"Tân Đồng","typeAddress": "workingPlace"},
+    {"id":"5","address":"Nguyễn Khánh Toàn p3","province":"Hà Nội","district":"Cầu Giấy","subDistrict":"3","typeAddress": "home"},
+    {"id":"6","address":"Quang Trung p5","province":"Hồ Chí Minh","district":"Gò Vấp","subDistrict":"5","typeAddress": "workingPlace"}
+]
